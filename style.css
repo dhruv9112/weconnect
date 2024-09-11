@@ -42,3 +42,73 @@ nav a{
     font-weight: 600;
 }
 
+nav .login{
+    background-color: #55185D;
+    color: white;
+    border-radius: 0.5vw;
+    padding: 0.6vw 1vw;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 6vw;
+
+}
+
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading h1{
+    color: white;
+    font-size: 6vw;
+    font-weight: bold;
+    padding-left: 2vw;
+}
+
+.illus{
+    height: 40vw;
+    width: 40vw;
+    padding-right: 5vw;
+    background: url('./assets/weconnect\ _home_pic.svg') no-repeat;
+}
+
+.illus2{
+    height: 32vw;
+    width: 32vw;
+    padding-top: 5vw;
+    padding-right: 5vw;
+    background: url('./assets/weconnect_about_us_pic.svg') no-repeat;
+}
+
+.about-main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 6vw;
+}
+
+.about-main h1{
+    color: white;
+    font-size: 6vw;
+    font-weight: bold;
+}
+
+.about-heading{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4vw;
+
+}
+
+.about-heading p{
+    width: 35vw;
+    color: white;
+    margin-top: -2vw;
+    font-weight: 400;
+}
+
+
